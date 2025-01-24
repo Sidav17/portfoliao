@@ -10,7 +10,7 @@ import pic1 from "../assets/pic1.jpg";
 const project = () => {
   return (
     <section>
-    <div className=" text-pink-500 mb-[-70px] mt-3 pl-3 md:text-center "> My Projects :<hr className="w-[100px] md:ml-[556px] bg-pink-500"/></div>
+    <div className=" text-pink-500 mb-[-70px] mt-3 pl-3 md:text-center "> Project :<hr className="w-[100px] md:ml-[556px] bg-pink-500"/></div>
     <div
       className="text-pink-600 md:grid md:grid-cols-3 
        border-white mt-10  "
@@ -21,7 +21,7 @@ const project = () => {
         className="  w-[100px] md:w-[230px] rounded-2xl border-white border-x-4 m-14  hover:border-purple-600 hover:bg-purple-300
       "
       >
-        <p className="text-center font-semibold"> Project 1 </p>
+        <p className="text-center font-semibold"> Dynamic Hand Gesture Recognition </p>
         <a href="#about">
           <img src={pic1} alt="project1 " className="p-3" />{" "}
         </a>
@@ -38,7 +38,7 @@ const project = () => {
         className="  w-[100px] md:w-[230px] rounded-2xl border-white border-x-4 m-14  hover:border-purple-600 hover:bg-purple-300
       "
       >
-        <p className="text-center font-semibold"> Project 1 </p>
+        <p className="text-center font-semibold"> Suchna : </p>
         <a href="#about">
           <img src={pic1} alt="project1 " className="p-3" />{" "}
         </a>
@@ -54,7 +54,7 @@ const project = () => {
       <div className="  w-[100px] md:w-[230px] rounded-2xl border-white border-x-4 m-14  hover:border-b-gray-900 hover:bg-neutral-700
       "
       >
-        <p className="text-center font-semibold"> Project 1 </p>
+        <p className="text-center font-semibold"> Thread : </p>
         <a href="#about">
           <img src={pic1} alt="project1 " className="p-3" />{" "}
         </a>

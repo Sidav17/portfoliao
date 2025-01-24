@@ -53,6 +53,7 @@ const skills = () => {
 
         <div className="grid  md:grid-cols-3 ">
           {/* <div className=" items-start border  h-80  col-span-1  "> */}
+          <h2> frontend :</h2>
 
           <div className="flex border p-3 rounded-2xl m-3 ">
             <p className=" ml-6"><img  className="w-[30px] " src={Html}></img> </p>

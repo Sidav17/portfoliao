@@ -22,7 +22,7 @@ const hero = () => {
               1000,
               "Webdesigner",
               1000,
-              "Data Scintiest",
+              "Data scientists",
               1000,
             ]}
             wrapper="span"
